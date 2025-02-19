@@ -1,2 +1,2 @@
 # What the Mystery?
--# for short term WTM
+*for short term WTM*
